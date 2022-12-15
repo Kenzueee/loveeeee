@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    Love open mo yung code tas download zip
+   view mo lang love
     <br />
     <a href="https://kenzueee.github.io/loveeeee/">View Demo</a>
     ·
