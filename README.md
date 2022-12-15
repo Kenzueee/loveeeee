@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    Anti Rejection for ur crush (ew yuck)
+    Love open mo yung code tas download zip
     <br />
     <a href="https://kenzueee.github.io/loveeeee/">View Demo</a>
     ·
